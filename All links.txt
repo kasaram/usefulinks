@@ -1,2 +1,8 @@
 XMl to Hive 
 https://community.hortonworks.com/questions/40979/hive-xml-parising-null-value-returned.html
+
+Gobblin - Eclipse
+https://gobblin.readthedocs.io/en/latest/
+https://groups.google.com/forum/#!topic/gobblin-users/pQi1PgnScfo
+https://gobblin.readthedocs.io/en/latest/Gobblin-Architecture/#gobblin-job-flow
+
