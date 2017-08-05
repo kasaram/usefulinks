@@ -1,0 +1,2 @@
+XMl to Hive 
+https://community.hortonworks.com/questions/40979/hive-xml-parising-null-value-returned.html
